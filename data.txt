@@ -1,0 +1,568 @@
+ 2014  630 1442 30.9 L  51.512 143.070 15.8  SAK  5 0.3 3.8LSAK                1
+ GAP=130        0.90       1.7     4.4  4.8 -0.1583E+01  0.1044E+02  0.6046E+00E
+ ACTION:UP  21-12-04 08:49 OP:vi   STATUS:               ID:20140630144043     I
+ OLDACT:UP  21-11-13 11:07 OP:vi   STATUS:               ID:20140630144043     3
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630144043     3
+ 2014-06-30-1440-43S.IMGG__030                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ A732 BZ IP       1443 18.02                              56    0.1410  336 218 
+ A732 BZ  APGA    1444 18.82      4772.5 1.16                           336 218 
+ A732 BN IS       1443 56.42                              56   -0.0310  336 218 
+ A732 BN  APGA    1444 14.70      6602.0 1.00                           336 218 
+ A732 BE  APGA  C 1444 14.14      4446.0 0.88                           336 218 
+ ARGI SZ IP       1442 36.58     12090.2 0.72            100   -0.4710 29.5 234 
+ ARGI SZ  APGA    1442 36.70     839.0e4 0.14                          29.5 234 
+ ARGI SZ  IAML    1442 50.92     12090.2 0.72                          29.5 234 
+ ARGI SN  APGA    1442 42.23     817.8e4 0.14                          29.5 234  
+ ARGI SN IS       1442 42.44                             100    0.3110 29.5 234 
+ ARGI SE  APGA    1442 42.66      10.9e6 0.18                          29.5 234 
+ CHIVOSZ IP       1442 49.18                              91   -0.1110  110   4 
+ CHIVOSZ  APGA    1442 50.22     499.3e4 0.11                           110   4 
+ CHIVOSN IS       1443  4.66                              91    0.2510  110   4 
+ CHIVOSN  APGA  C 1443 10.67      11.6e6 0.42                           110   4 
+ LNSK SZ IP       1442 35.49                             110   -0.5710 22.7 123 
+ LNSK SZ  IAML    1442 39.94      6007.5 0.38                          22.7 123 
+ LNSK SZ  APGA  C 1442 40.11     873.5e4 0.10                          22.7 123 
+ LNSK SZ  E     C 1442 41.13      19.4e4 0.16                                   
+ LNSK SN  APGA  C 1442 39.82      18.2e6 0.54                          22.7 123 
+ LNSK SN IS       1442 40.72                             110    0.4010 22.7 123 
+ LNSK SN  E       1442 40.01      52.3e4 0.21                                   
+ LNSK SE  E     C 1442 40.07      60.0e4 73.1                                   
+ NGLK SZ  APGA    1442 36.66      11.8e6 0.13                          30.4   7 
+ NGLK SZ IP       1442 37.54                              99    0.3610 30.4   7 
+ NGLK SZ  IAML    1442 40.88     10523.9 0.27                          30.4   7 
+ NGLK SZ  E     C 1442 40.82      26.9e4 0.26                                   
+ NGLK SN  APGA  C 1442 39.20      37.8e6 0.10                          30.4   7 
+ NGLK SN IS       1442 42.09                              99   -0.2810 30.4   7 
+ NGLK SN  E     C 1442 39.19      63.9e4 0.11                                   
+ NGLK SE  E       1442 39.25     114.7e4 0.54                                   
+                                                                                
+ 2014  630 1447 11.0 L                       SAK                               1
+ ACTION:UP  21-11-13 11:07 OP:vi   STATUS:               ID:20140630144711     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630144711     3
+ 2014-06-30-1447-11S.IMGG__030                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ARGI SZ IP       1448 20.08                                                    
+ ARGI SZ  IAML    1448 23.35       758.7 0.29                                   
+ ARGI SZ  APGA  C 1448 20.14     102.4e4 0.13                                   
+ ARGI SZ  E     C 1448 55.13     24508.6 31.6                                   
+ ARGI SN IS       1448 25.91                                                    
+ ARGI SN  APGA    1448 25.97     184.4e4 0.14                                   
+ ARGI SN  E     C 1448 50.12     33444.7 26.6                                   
+ ARGI SE  APGA  C 1448 25.99     158.8e4 0.13                                   
+ ARGI SE  E     C 1448 26.01     28570.6 0.37                                   
+                                                                                
+ 2014  630 1511 27.7 L  51.506 143.066  0.3  SAK  5 2.1 3.4LSAK                1
+ GAP=129        5.50       9.9    20.6 11.5 -0.4747E+02  0.1074E+02 -0.1602E+01E
+ ACTION:UP  21-11-13 11:07 OP:vi   STATUS:               ID:20140630151050     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630151050     3
+ 2014-06-30-1510-50S.IMGG__030                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ A732 BZ IP       1512 18.22                              18    1.3710  335 218 
+ A732 BZ  APGA  C 1513 27.31      2465.0 1.16                                   
+ A732 BN IS       1512 54.24                              18   -2.8910  335 218 
+ A732 BN  APGA  D 1513 13.14      4441.5 0.70                                   
+ A732 BE  APGA  C 1513 12.46      3107.5 0.78                                   
+ ARGI SZ IP       1511 34.88                              25    0.6410 28.9 235 
+ ARGI SZ  IAML    1511 49.18      8023.4 0.67                          28.9 235 
+ ARGI SZ  APGA    1511 34.92     455.9e4 0.18                                   
+ ARGI SZ  E     C 1511 49.26      10.2e4 0.30                                   
+ ARGI SN IS       1511 40.65                              25    1.0810 28.9 235 
+ ARGI SN  APGA  C 1511 40.80     728.9e4 0.22                                   
+ ARGI SN  E     C 1511 40.71      35.0e4 0.26                                   
+ ARGI SE  APGA  C 1511 40.93     744.4e4 0.24                                   
+ ARGI SE  E     C 1511 40.83      24.7e4 0.38                                   
+ CHIVOSZ IP       1511 47.14                              22   -0.7310  111   4 
+ CHIVOSZ  APGA    1511 50.72     418.6e4 0.13                                   
+ CHIVOSN IS       1512  8.86                              22    4.4710  111   4 
+ CHIVOSN  APGA  C 1512  8.79     951.5e4 0.35                                   
+ CHIVOSE  APGA    1512  1.87     828.5e4 0.43                                   
+ LNSK SZ IP       1511 33.46                              25    0.2810 22.6 121 
+ LNSK SZ  IAML    1511 39.23      3284.0 0.21                          22.6 121 
+ LNSK SZ  APGA    1511 38.69     798.1e4 0.10                                   
+ LNSK SZ  E     C 1511 38.52      12.9e4 0.27                                   
+ LNSK SN IS       1511 38.03                              25    0.3910 22.6 121 
+ LNSK SN  APGA    1511 38.68      11.2e6 0.13                                   
+ LNSK SN  E     C 1511 38.61      26.5e4 0.14                                   
+ LNSK SE  APGA    1511 38.09      10.3e6 0.22                                   
+ LNSK SE  E       1511 37.94      39.7e4 0.42                                   
+ NGLK SZ IP       1511 33.00                              25   -1.6110 31.1   8 
+ NGLK SZ  APGA  C 1511 34.56      22.8e6 0.13                                   
+ NGLK SZ  E     C 1511 37.58      29.6e4 0.13                                   
+ NGLK SN IS       1511 37.24                              25   -3.0010 31.1   8 
+ NGLK SN  APGA  C 1511 37.31      26.4e6 0.38                                   
+ NGLK SN  E     C 1511 37.26      62.8e4 0.16                                   
+ NGLK SE  APGA  C 1511 37.22      56.3e6 0.53                                   
+ NGLK SE  E     C 1511 37.23     139.3e4 0.53                                   
+                                                                                
+ 2014  630 1618 36.8 L  50.620 139.142 32.0  SAK  422.8 4.5LSAK                1
+ GAP=257       58.70     344.3   806.6370.1 -0.2177E+06  0.1997E+06 -0.9951E+05E
+ ACTION:UP  21-11-13 11:07 OP:vi   STATUS:               ID:20140630161902     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630161902     3
+ 2014-06-30-1619-02S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ A732 BZ IP       1619  8.26                             112   -0.7610  188 154 
+ A732 BZ  APGA  C 1622 32.07       691.0 0.14                                   
+ A732 BN IS       1619 23.00                             112   -12.410  188 154 
+ A732 BN  APGA  C 1622 32.49      1197.0 0.18                                   
+ A732 BE  APGA  D 1622 15.47       947.0 0.12                                   
+ ARGI SZ IP       1619 56.69                             106   36.6510  265  71 
+ ARGI SZ  IAML    1620 10.82       475.3 0.77                           265  71 
+ ARGI SZ  APGA  C 1619 56.73      74.5e4 0.11                                   
+ ARGI SZ  E     C 1619 59.86      13.6e4 69.9                                   
+ ARGI SN IS       1620  3.00                             106    7.5010  265  71 
+ ARGI SN  APGA  C 1620  2.54     102.7e4 0.19                                   
+ ARGI SN  E     C 1620  2.58     42371.5 27.5                                   
+ ARGI SE  APGA  C 1620  3.09     101.2e4 0.40                                   
+ ARGI SE  E     C 1620  2.79     32902.1 44.5                                   
+ CHIVOSZ IP       1619  9.05                              50   -13.610  349  52 
+ CHIVOSZ  APGA  C 1619 52.92     105.7e4 0.11                                   
+ CHIVOSN IS       1619 21.15                              50   -39.210  349  52 
+ CHIVOSN  APGA  C 1620 25.75      99.5e4 0.18                                   
+ CHIVOSE  APGA  C 1619 44.50      81.0e4 0.18                                   
+ LNSK SZ IP       1619 55.32                             103   29.0310  307  72 
+ LNSK SZ  IAML    1620  0.71       315.7 0.21                           307  72 
+ LNSK SZ  APGA    1619 55.33     125.3e4 0.11                                   
+ LNSK SZ  E       1620  4.11     29728.7 42.7                                   
+ LNSK SN IS       1619 59.71                             103   -7.1710  307  72 
+ LNSK SN  APGA    1620  0.02     149.0e4 0.22                                   
+ LNSK SN  E       1620  0.13     39913.2 34.8                                   
+ LNSK SE  APGA  C 1619 59.96     184.5e4 0.13                                   
+ LNSK SE  E     C 1619 59.95     46496.0 0.16                                   
+                                                                                
+ 2014  630 1656 27.0 L  49.091 140.254  0.0  SAK  529.0                        1
+ GAP=303       75.88     276.5   391.5127.6 -0.6586E+05  0.7313E+04  0.1413E+05E
+ ACTION:UP  21-11-13 11:07 OP:vi   STATUS:               ID:20140630165551     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630165551     3
+ 2014-06-30-1655-51S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ UGL1 BZ IP       1656 27.12                              22   -23.410  132  90 
+ UGL1 BZ  APGA  C 1657 54.70      1938.0 10.2                                   
+ UGL1 BN IS       1658 14.90                              22   65.1410  132  90 
+ UGL1 BN  APGA    1658 15.75      1744.5 1.84                                   
+ A732 BZ IP       1655 56.28                              92   -30.810 0.05  46 
+ A732 BZ  APGA  C 1659  4.02       409.0 0.12                                   
+ A732 BN IS       1656 10.23                              92   -16.810 0.05  46 
+ A732 BN  APGA    1656 23.05       940.5 0.12                                   
+ A732 BE  APGA  C 1658 21.00       673.5 0.12                                   
+ ARGI SZ IP       1657 29.05                              18   16.2010  308  34 
+ ARGI SZ  IAML    1657 48.88        71.0 35.1                           308  34 
+ ARGI SZ  APGA  C 1657 28.87      19.2e4 0.10                                   
+ ARGI SN EP       1657 35.21                              18   22.3610  308  34 
+ ARGI SN  APGA    1657 34.60      15.7e4 0.13                                   
+ ARGI SE  APGA  C 1657 29.02     90195.0 0.10                                   
+ LNSK SZ IP       1657 29.59                              18   12.8910  338  39 
+ LNSK SZ  IAML    1657 39.05       102.6 28.6                           338  39 
+ LNSK SZ  APGA  C 1657 30.20      13.1e4 0.10                                   
+ LNSK SN IS       1657 34.15                              18   -23.310  338  39 
+ LNSK SN  APGA  C 1657 33.65      13.8e4 0.10                                   
+ LNSK SE  APGA  C 1657 32.10      15.6e4 0.19                                   
+ NGLK SZ IP       1657 26.90                              18    7.2110  362  33 
+ NGLK SZ  IAML    1657 36.78        56.6 11.3                           362  33 
+ NGLK SZ  APGA    1657 28.95      41.3e4 0.13                                   
+ NGLK SN IS       1657 33.34                              18   -29.510  362  33 
+ NGLK SN  APGA  C 1657 31.83      35.4e4 0.10                                   
+ NGLK SE  APGA  C 1657 31.65      56.1e4 0.11                                   
+                                                                                
+ 2014  630 1740 45.4 L  51.570 143.152  2.1  SAK  612.1 2.9LSAK                1
+ GAP=144       32.03      46.8   144.5112.8 -0.1274E+04  0.2568E+04  0.3407E+03E
+ ACTION:UP  21-11-13 11:08 OP:vi   STATUS:               ID:20140630174012     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630174012     3
+ 2014-06-30-1740-12S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ A732 BZ IP       1742 14.03                              29   39.1610  344 218 
+ A732 BZ  APGA  C 1741 49.71       373.5 0.16                                   
+ A732 BN IS       1742 13.77                              29   -1.6610  344 218 
+ A732 BN  APGA  C 1741 47.59      1056.0 0.20                                   
+ A732 BE  APGA    1740 42.44      1090.0 0.18                                   
+ ARGI SZ IP       1740 46.83                              41   -5.8410 38.0 231 
+ ARGI SZ  IAML    1740 57.44      1166.8 0.48                          38.0 231 
+ ARGI SZ  APGA  C 1740 47.18     200.5e4 0.11                                   
+ ARGI SZ  E     C 1740 47.18     98970.6 48.6                                   
+ ARGI SN IS       1740 53.86                              41   -4.7710 38.0 231 
+ ARGI SN  APGA    1740 53.07     317.2e4 0.16                                   
+ ARGI SN  E     C 1740 53.00      10.3e4 0.19                                   
+ ARGI SE  APGA  C 1740 53.02     295.2e4 0.13                                   
+ ARGI SE  E     C 1740 53.07     71192.0 0.14                                   
+ CHIVOSZ IP       1741  2.71                              41   -0.9110  104   1 
+ CHIVOSZ  APGA  C 1741 12.90     142.9e4 0.10                                   
+ CHIVOSN IS       1741 20.92                              41    2.3610  104   1 
+ CHIVOSN  APGA  C 1741 20.84     171.6e4 0.32                                   
+ CHIVOSE  APGA  C 1741 24.38     126.0e4 0.21                                   
+ LNSK SZ IP       1740 45.27                              41   -4.9210 23.1 145 
+ LNSK SZ  IAML    1740 50.91      1093.1 0.24                          23.1 145 
+ LNSK SZ  APGA  C 1740 45.64     268.2e4 0.10                                   
+ LNSK SZ  E     C 1740 50.37     39478.0 1.02                                   
+ LNSK SN IS       1740 53.60                              41   -0.5210 23.1 145 
+ LNSK SN  APGA  C 1740 51.63     204.0e4 0.24                                   
+ LNSK SN  E       1740 50.55     62875.5 0.19                                   
+ LNSK SE  APGA  C 1740 50.35     366.8e4 0.14                                   
+ LNSK SE  E     C 1740 50.99     99325.1 0.19                                   
+ NGLK SZ IP       1740 45.01                              41   -5.2910 23.7 356 
+ NGLK SZ  IAML    1740 49.64      1740.7 0.14                          23.7 356 
+ NGLK SZ  APGA  C 1740 46.81     479.8e4 0.14                                   
+ NGLK SZ  E     C 1740 49.67     71031.3 0.14                                   
+ NGLK SN IS       1740 49.95                              41   -4.3610 23.7 356 
+ NGLK SN  APGA  C 1740 49.88     891.4e4 0.10                                   
+ NGLK SN  E     C 1740 49.87      18.6e4 0.13                                   
+ NGLK SE  APGA  C 1740 49.50      15.7e6 0.14                                   
+ NGLK SE  E       1740 49.49      40.5e4 0.14                                   
+ TYV  BZ IP       1740 54.39                              41   -6.3310 85.9 204 
+ TYV  BN IS       1741  6.36                              41   -6.9110 85.9 204 
+                                                                                
+ 2014  630 1845 23.5 L  51.608 143.005 22.1  SAK  3 0.5 2.1LSAK                1
+ GAP=169        1.26       4.2     8.0 15.8 -0.6745E+01  0.1355E+02  0.3170E+02E
+ ACTION:UP  21-11-13 11:08 OP:vi   STATUS:               ID:20140630184431     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630184431     3
+ 2014-06-30-1844-31S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ARGI SZ IP       1845 30.08                             115   -0.5510 34.1 215 
+ ARGI SZ  IAML    1845 33.20       101.8 0.30                          34.1 215 
+ ARGI SZ  APGA  C 1845 30.05      23.4e4 0.10                                   
+ ARGI SZ  E     C 1845 14.97     80326.0 59.1                                   
+ ARGI SN IS       1845 36.81                             115    0.3010 34.1 215 
+ ARGI SN  APGA  C 1845 36.08      40.1e4 0.11                                   
+ ARGI SN  E     C 1845 12.35      30.8e4                                        
+ ARGI SE  APGA  C 1845 35.93      39.0e4 0.14                                   
+ ARGI SE  E     C 1846  9.81     42606.7 50.0                                   
+ LNSK SZ IP       1845 31.33                             116    0.8510 33.0 134 
+ LNSK SZ  IAML    1845 36.48        86.8 0.34                          33.0 134 
+ LNSK SZ  APGA  C 1845 28.55      16.7e4 0.22                                   
+ LNSK SZ  E     C 1845 43.00     52021.0 51.3                                   
+ LNSK SN IS       1845 35.76                             116   -0.4710 33.0 134 
+ LNSK SN  APGA  C 1845 33.21      18.9e4 0.46                                   
+ LNSK SN  E     C 1845  5.90     77639.0 49.1                                   
+ LNSK SE  APGA  C 1845 33.86      32.8e4 0.18                                   
+ LNSK SE  E     C 1845 14.67      21.4e4                                        
+ NGLK SZ IP       1845 28.67                             130   -0.2910 21.1  23 
+ NGLK SZ  IAML    1845 32.49       182.4 0.19                          21.1  23 
+ NGLK SZ  APGA  C 1845 28.60     136.3e4 0.13                                   
+ NGLK SZ  E     C 1845 36.06     18420.4 94.8                                   
+ NGLK SN IS       1845 33.63                             130    0.1610 21.1  23 
+ NGLK SN  APGA  C 1845 32.18     236.9e4 0.13                                   
+ NGLK SN  E     C 1845  0.00     76021.7 77.9                                   
+ NGLK SE  APGA  C 1845 32.27     205.3e4 0.19                                   
+ NGLK SE  E     C 1845 32.20     39156.7 0.13                                   
+                                                                                
+ 2014  630 1927 24.3 L  52.796 139.904 30.0  SAK  315.6 3.5LSAK                1
+ GAP=347       38.94     999.9   999.9999.9 -0.6795E+09 -0.1855E+10  0.7098E+09E
+ ACTION:UP  21-11-13 11:08 OP:vi   STATUS:               ID:20140630192720     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630192720     3
+ 2014-06-30-1927-20S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ARGI SZ IP       1927 55.13                              56   -4.4310  251 129 
+ ARGI SZ  IAML    1928 27.95       144.3 10.4                           251 129 
+ ARGI SZ  APGA  C 1928 29.02      28.4e4 0.10                                   
+ ARGI SZ  E     C 1927 54.86      28.8e4 67.6                                   
+ ARGI SN IS       1928 22.07                              56   -6.4010  251 129 
+ ARGI SN  APGA  C 1928 21.53      27.3e4 0.10                                   
+ ARGI SN  E     C 1928 21.54      4532.2 0.10                                   
+ ARGI SE  APGA    1928 20.61      43.9e4 0.22                                   
+ ARGI SE  E       1928 35.50      4998.5 0.16                                   
+ LNSK SZ IP       1928 31.86                              56   28.4310  282 122 
+ LNSK SZ  IAML    1928 33.68        43.6 0.61                           282 122 
+ LNSK SZ  APGA    1928 33.53      10.9e4 0.21                                   
+ LNSK SZ  E       1928 33.44      1858.6 0.21                                   
+ LNSK SN IS       1928 36.65                              56    1.1310  282 122 
+ LNSK SN  APGA  C 1928 32.92      29.5e4 0.16                                   
+ LNSK SN  E       1928 32.85      8410.4 0.18                                   
+ LNSK SE  APGA    1928 33.44      14.0e4 0.14                                   
+ LNSK SE  E     C 1928 33.45      4577.8 0.14                                   
+ NGLK SZ IP       1927 35.36                              56   -23.710  247 116 
+ NGLK SZ  IAML    1928  9.60       101.8 35.6                           247 116 
+ NGLK SZ  APGA  C 1928 29.91      34.4e4 0.13                                   
+ NGLK SZ  E     C 1928 29.56      2710.0 0.18                                   
+ NGLK SN IS       1928 32.45                              56    4.9410  247 116 
+ NGLK SN  APGA  C 1928 32.46      76.0e4 0.11                                   
+ NGLK SN  E     C 1928 32.43     12596.6 0.10                                   
+ NGLK SE  APGA  C 1928 32.43      66.3e4 0.11                                   
+ NGLK SE  E     C 1928 32.41     12888.5 0.16                                   
+                                                                                
+ 2014  630 2058 16.7 L  51.563 143.029  2.0  SAK  8 3.9 4.5LSAK                1
+ GAP=114       10.34      13.8    39.6 30.3 -0.1360E+03  0.2057E+03 -0.4189E+02E
+ ACTION:UP  21-11-13 11:08 OP:vi   STATUS:               ID:20140630205714     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630205714     3
+ 2014-06-30-2057-14S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TYV  BZ IP       2058 38.54                              41    7.1210 82.1 199 
+ TYV  BN IS       2058 42.13                              41   -1.3310 82.1 199 
+ OKH  BN IS       2059 24.05                              29    3.9710  227 359 
+ A732 BZ IP       2059  2.19                              29   -3.3010  339 217 
+ A732 BZ  APGA  C 21 0  2.48     28466.0 1.24                                   
+ A732 BN IS       2059 42.31                              29   -3.1510  339 217 
+ A732 BN  APGA  C 2059 57.55     33010.5 1.38                                   
+ A732 BE  APGA  C 2059 59.85     31645.0 1.18                                   
+ ARGI SZ IP       2058 20.27                              41   -2.6210 31.2 222 
+ ARGI SZ  IAML    2058 32.51     63974.6 1.01                          31.2 222 
+ ARGI SZ  APGA  C 2058 21.68      12.5e6 0.16                                   
+ ARGI SZ  E     C 2058 20.23      61.7e4 0.21                                   
+ ARGI SN IS       2058 29.85                              41    1.9210 31.2 222 
+ ARGI SN  APGA  C 2058 26.31      42.4e6 0.13                                   
+ ARGI SN  E     C 2058 30.83     192.3e4 0.45                                   
+ ARGI SE  APGA  C 2058 25.83      65.6e6 0.14                                   
+ ARGI SE  E     C 2058 25.98     265.7e4 0.34                                   
+ CHIVOSZ IP       2058 32.84                              41   -2.3410  105   5 
+ CHIVOSZ  APGA  C 2058 58.53      26.3e6 0.48                                   
+ CHIVOSN IS       2058 49.01                              41   -1.2910  105   5 
+ CHIVOSN  APGA  C 2058 47.71      83.2e6 0.48                                   
+ CHIVOSE  APGA  C 2058 54.35      81.4e6 0.42                                   
+ LNSK SZ IP       2058 19.97                              41   -2.4410 28.4 130 
+ LNSK SZ  IAML    2058 26.81     54929.4 0.46                          28.4 130 
+ LNSK SZ  APGA  C 2058 24.13      32.5e6 0.35                                   
+ LNSK SZ  E     C 2058 26.98      93.2e4 0.50                                   
+ LNSK SN IS       2058 28.36                              41    1.2910 28.4 130 
+ LNSK SN  APGA  C 2058 24.37      54.9e6 0.14                                   
+ LNSK SN  E       2058 24.39     157.2e4 0.16                                   
+ LNSK SE  APGA  C 2058 23.95      49.4e6 0.18                                   
+ LNSK SE  E     C 2058 24.13     214.2e4 0.32                                   
+ NGLK SZ IP       2058 18.77                              41   -3.1410 25.4  15 
+ NGLK SZ  IAML    2058 23.59     45140.7 0.26                          25.4  15 
+ NGLK SZ  APGA    2058 19.99      70.9e6 0.13                                   
+ NGLK SZ  E     C 2058 24.49     115.5e4 0.29                                   
+ NGLK SN IS       2058 23.56                              41   -2.6010 25.4  15 
+ NGLK SN  APGA  C 2058 22.75     167.8e6 0.24                                   
+ NGLK SN  E     C 2058 22.85     547.0e4 0.22                                   
+ NGLK SE  APGA  C 2058 22.96     192.9e6 0.16                                   
+ NGLK SE  E     C 2058 23.02     574.2e4 0.19                                   
+ NKL  HZ IP       2058 50.52                              29   -2.4010  238 319 
+ NKL  HN IS       2059 22.85                              29    0.2610  238 319 
+ OKH  BZ IP       2059  1.59                              29   10.0510  227 359 
+                                                                                
+ 2014  630 2104 25.7 L  51.783 143.126  0.0  SAK  410.1 2.1LSAK                1
+ GAP=158       25.91      48.6   200.2 20.9 -0.1272E+04 -0.1060E+04  0.3872E+03E
+ ACTION:UP  21-11-13 11:09 OP:vi   STATUS:               ID:20140630210353     I
+ OLDACT:UP  21-11-13 11:08 OP:vi   STATUS:               ID:20140630210353     3
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630210353     3
+ 2014-06-30-2103-53S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ARGI SZ IP       21 4 57.69                              25   21.0310 55.0 210 
+ ARGI SZ  IAML    21 5  1.25       125.2 1.62                          55.0 210 
+ ARGI SZ  E     C 21 4 59.50      1790.9 0.30                                   
+ ARGI SN IS       21 4 41.72                              25   -3.9210 55.0 210 
+ ARGI SN  E       21 4 39.60      2012.7 0.13                                   
+ ARGI SE  E     C 21 4 38.59      3276.3 0.18                                   
+ CHIVOSZ IP       21 4 45.75                              25    4.9110 80.1   2 
+ CHIVOSN IS       21 4 57.50                              25    4.2510 80.1   2 
+ LNSK SZ IP       21 4 36.56                              25    1.5410 45.2 160 
+ LNSK SZ  IAML    21 4 39.40        48.2 1.66                          45.2 160 
+ LNSK SZ  E     C 21 4 37.52      1203.8 0.13                                   
+ LNSK SN IS       21 4 37.68                              25   -4.9810 45.2 160 
+ LNSK SN  E     C 21 4 35.91      4114.6 0.18                                   
+ LNSK SE  E       21 4 35.80      2349.8 0.14                                   
+ NGLK SZ IP       21 4 17.76                             169   -7.9410 0.00 334 
+ NGLK SZ  IAML    21 4 24.79       118.1 0.35                          0.00 334 
+ NGLK SZ  E       21 4 31.24      5428.2 0.18                                   
+ NGLK SN IS       21 4 10.81                             169   -14.910 0.00 334 
+ NGLK SN  E     C 21 4  7.95      6023.5 0.26                                   
+ NGLK SE  E     C 21 4 35.44     10627.5 0.11                                   
+                                                                                
+ 2014  630 2106  5.5 L  51.958 143.208 48.8  SAK  5 3.6 3.7LSAK                1
+ GAP=174        9.29      24.5   140.4 61.0 -0.1112E+04  0.1285E+04  0.9834E+02E
+ ACTION:UP  21-11-13 11:09 OP:vi   STATUS:               ID:20140630210543     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630210543     3
+ 2014-06-30-2105-43S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ TYV  BZ IP       21 6 27.76                             101    2.4010  128 198 
+ TYV  BZ  IAML    21 6 29.33     19079.1 46.3                           128 198 
+ TYV  BN IS       21 6 38.82                             101   -2.8610  128 198 
+ ARGI SZ IP       21 6 19.99                             112    1.0610 74.8 207 
+ ARGI SZ  IAML    21 6 32.22      1384.8 0.32                          74.8 207 
+ ARGI SZ  E     C 21 6 19.93     49562.2 0.21                                   
+ ARGI SN IS       21 6 28.00                             112   -1.9710 74.8 207 
+ ARGI SN  E       21 6 25.65      13.3e4 0.18                                   
+ ARGI SE  E       21 6 25.58      10.3e4 0.14                                   
+ CHIVOSZ IP       21 6 21.14                             118    3.8310 60.5 358 
+ CHIVOSN IS       21 6 20.63                             118   -6.4010 60.5 358 
+ LNSK SZ IP       21 6 18.47                             117    0.9110 62.8 171 
+ LNSK SZ  IAML    21 6 23.68      1808.7 0.14                          62.8 171 
+ LNSK SZ  E     C 21 6 23.72     67307.6 0.14                                   
+ LNSK SN IS       21 6 23.05                             117   -4.4310 62.8 171 
+ LNSK SN  E     C 21 6 23.16      13.7e4 0.11                                   
+ LNSK SE  E       21 6 23.47      10.4e4 0.14                                   
+ NGLK SZ IP       21 6 18.72                             153    5.0110 20.3 196 
+ NGLK SZ  IAML    21 6 22.79       781.5 0.21                          20.3 196 
+ NGLK SZ  E       21 6 24.32     33657.9 0.18                                   
+ NGLK SN IS       21 6 22.92                             153    2.4510 20.3 196 
+ NGLK SN  E       21 6 22.68      11.1e4 0.16                                   
+ NGLK SE  E     C 21 6 22.76      12.4e4 0.14                                   
+                                                                                
+ 2014  630 2109 57.9 L  51.564 143.027 23.3  SAK  4 0.6 2.7LSAK                1
+ GAP=153        1.53       4.2     9.1 13.2 -0.9539E+01  0.2994E+02  0.2085E+02E
+ ACTION:UP  21-11-13 11:09 OP:vi   STATUS:               ID:20140630210928     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630210928     3
+ 2014-06-30-2109-28S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ NGLK SN IS       2110  8.44                             126   -0.5910 25.3  16 
+ TYV  BZ IP       2110 11.40                              98   -0.8110 82.1 199 
+ TYV  BZ  IAML    2110 21.67     21737.2 34.1                          82.1 199 
+ TYV  BN IS       2110 23.67                              98   -0.2610 82.1 199 
+ ARGI SZ IP       2110  5.04                             120    0.2810 31.1 222 
+ ARGI SZ  IAML    2110 15.20       492.4 0.58                          31.1 222 
+ ARGI SZ  E     C 2110  4.94     15203.5 0.16                                   
+ ARGI SN IS       2110 10.66                             120    0.2910 31.1 222 
+ ARGI SN  E     C 2110 10.69     30534.2 0.13                                   
+ ARGI SE  E       2110 10.67     46032.3 0.34                                   
+ LNSK SZ IP       2110  5.49                             122    1.0710 28.5 129 
+ LNSK SZ  IAML    2110  8.60       524.4 0.26                          28.5 129 
+ LNSK SZ  E     C 2110  8.63     14355.1 0.27                                   
+ LNSK SN IS       2110  9.34                             122   -0.4110 28.5 129 
+ LNSK SN  E     C 2110  8.25     36345.7 0.18                                   
+ LNSK SE  E     C 2110  8.14     36206.0 0.40                                   
+ NGLK SZ IP       2110  4.45                             126    0.4310 25.3  16 
+ NGLK SZ  IAML    2110  9.37       554.4 0.37                          25.3  16 
+                                                                                
+ 2014  630 2113  9.0 L                       SAK                               1
+ ACTION:UP  21-11-13 11:09 OP:vi   STATUS:               ID:20140630211309     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630211309     3
+ 2014-06-30-2113-09S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2118 17.6 L  49.796 141.321 32.2  SAK  3 8.9 3.6LSAK                1
+ GAP=187       22.26     523.6   999.9999.9 -0.5605E+06 -0.7120E+08  0.2610E+08E
+ ACTION:UP  21-11-13 11:09 OP:vi   STATUS:               ID:20140630211834     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630211834     3
+ 2014-06-30-2118-34S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ A732 BZ IP       2118 36.74                              90    1.6410  110 225 
+ A732 BN IS       2118 43.31                              90   -6.0910  110 225 
+ ARGI SZ IP       2118 59.93                              90   13.5910  200  29 
+ ARGI SZ  IAML    2119  5.53       145.4 0.26                           200  29 
+ ARGI SN IS       2119  6.63                              90   -3.2310  200  29 
+ LNSK SZ IP       2118 57.52                              90    7.6010  229  38 
+ LNSK SN IS       2119  2.88                              90   -13.510  229  38 
+ LNSK SZ  IAML    2119  5.83        75.0 0.53                           229  38 
+                                                                                
+ 2014  630 2124 17.8 L  51.697 143.118  6.2  SAK  3 0.5 2.5LSAK                1
+ GAP=299        1.29       9.0     8.4 10.0  0.6576E+01  0.2453E+02  0.1258E+02E
+ ACTION:UP  21-11-13 11:09 OP:vi   STATUS:               ID:20140630212342     I
+ OLDACT:UP  21-11-13 11:04 OP:vi   STATUS:               ID:20140630212342     3
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630212342     3
+ 2014-06-30-2123-42S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LNSK SZ IP       2124 25.14                              94    0.3510 36.5 155 
+ LNSK SN IS       2124 30.34                              94   -0.1910 36.5 155 
+ LNSK SZ  IAML    2124 30.83       256.9 0.13                          36.5 155 
+ ARGI SZ  IAML    2124 26.94       304.8 0.18                          46.6 216 
+ ARGI SZ IP       2124 27.01                              93    0.5310 46.6 216 
+ ARGI SN IS       2124 33.31                              93   -0.2910 46.6 216 
+ TYV  BZ IP       2124 34.17                              65   -0.8710 98.1 199 
+ TYV  BN IS       2124 49.66                              65    0.4810 98.1 199 
+                                                                                
+ 2014  630 2125  7.3 L  51.554 143.106 32.1  SAK  4 1.5 2.9LSAK                1
+ GAP=133        3.75      12.6    30.5 37.0  0.1063E+02  0.6194E+03  0.2069E+03E
+ ACTION:UP  21-11-13 11:09 OP:vi   STATUS:               ID:20140630212501     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630212501     3
+ 2014-06-30-2125-01S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LNSK SZ IP       2125 14.42                             129    0.3210 23.8 136 
+ LNSK SN IS       2125 19.79                             129    0.0710 23.8 136 
+ LNSK SZ  IAML    2125 23.43       366.9 0.48                          23.8 136 
+ NGLK SZ IP       2125 14.68                             126    0.4110 25.5   3 
+ NGLK SN IS       2125 18.64                             126   -1.3910 25.5   3 
+ NGLK SZ  IAML    2125 19.79       657.5 0.22                          25.5   3 
+ ARGI SZ  IAML    2125 16.30       947.3 0.19                          34.4 230 
+ ARGI SZ IP       2125 16.35                             109    1.0910 34.4 230 
+ ARGI SN IS       2125 22.34                             109    0.5210 34.4 230 
+ TYV  BZ IP       2125 23.40                              90    2.0310 83.0 202 
+ TYV  BN IS       2125 29.92                              90   -3.0310 83.0 202 
+                                                                                
+ 2014  630 2130 18.0 L                       SAK                               1
+ ACTION:UP  21-11-13 11:09 OP:vi   STATUS:               ID:20140630213018     I
+ OLDACT:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630213018     3
+ 2014-06-30-2130-18S.IMGG__024                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2131 29.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630213129     I
+ 2014-06-30-2131-29S.IMGG__024                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2137 19.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630213719     I
+ 2014-06-30-2137-19S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2141 31.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630214131     I
+ 2014-06-30-2141-31S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2211 56.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630221156     I
+ 2014-06-30-2211-56S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2212 39.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630221239     I
+ 2014-06-30-2212-39S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2223  3.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630222303     I
+ 2014-06-30-2223-03S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2242 30.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630224230     I
+ 2014-06-30-2242-30S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2244 33.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630224433     I
+ 2014-06-30-2244-33S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2250 27.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630225027     I
+ 2014-06-30-2250-27S.IMGG__024                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2256 29.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630225629     I
+ 2014-06-30-2256-29S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 23 1 18.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630230118     I
+ 2014-06-30-2301-18S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 23 6 21.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630230621     I
+ 2014-06-30-2306-21S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2316 34.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630231634     I
+ 2014-06-30-2316-34S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2324  5.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630232405     I
+ 2014-06-30-2324-05S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2333 57.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630233357     I
+ 2014-06-30-2333-57S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2346  1.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630234601     I
+ 2014-06-30-2346-01S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2014  630 2355 51.0 L                                                         1
+ ACTION:ARG 21-10-16 08:48 OP:vi   STATUS:               ID:20140630235551     I
+ 2014-06-30-2355-51S.IMGG__027                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ ARGI SN IS       2357 14.49                                                    
+ LNSK SE ES       2357 11.26                                                    
+ NGLK SE IS       2357 10.79                                                    
+ ARGI SZ IP     C 2357  8.63                                                    
+ ARGI SZ  IAML    2357 24.09        79.9 1.38                                   
+ LNSK SZ EP       2357  6.94                                                    
+ LNSK SZ  IAML    2357 12.03       157.9 0.18                                   
+ NGLK SZ EP       2357  6.97                                                    
+ NGLK SZ  IAML    2357 12.03       151.2 0.18                                   
+                                                                                
